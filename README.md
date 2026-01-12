@@ -12,4 +12,4 @@ Infinite Stair Game (OpenCv/Python). 2026.01.09
 3. 플레이어 입력은 각 계단이 요구하는 방향(dir)과 일치해야 성공
 4. SPACE 입력 시, Gap을 뛰어넘는 2칸 점프 가능
 5. 
-<img width="1192" height="877" alt="스크린샷 2026-01-12 094429" src="https://github.com/user-attachments/assets/ce1fa93a-d1bd-4ec9-a29e-cae6fd12be26" />
+<img width="1192" height="877" alt="스크린샷 2026-01-12 094429" src="https://github.com/user-attachments/assets/ce1fa93a-d1bd-4ec9-a29e-cae6fd12be26" width="600" height="400/>
