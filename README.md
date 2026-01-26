@@ -6,6 +6,10 @@
 - 개발일: **2026.01.09**
 - 개발자: **문지하, 김진수, 구효제**
 
+<img src="image/stair1.png" width="400" />
+<img src="image/stair2.png" width="400" />
+<img src="image/stair3.png" width="400" />
+
 ---
 
 ## 프로젝트 개요
@@ -55,9 +59,9 @@
   - Gap 생성 확률 증가
   - 배경색 변화로 시각적 압박 증가
 
-Stage 1 : 입력 제한 2.0초 / Gap 0%
-Stage 2 : 입력 제한 1.85초 / Gap 10%
-Stage 3 : 입력 제한 1.6초 / Gap 20%
+- Stage 1 : 입력 제한 2.0초 / Gap 0%
+- Stage 2 : 입력 제한 1.85초 / Gap 10%
+- Stage 3 : 입력 제한 1.6초 / Gap 20%
 ...
 최소 입력 제한 시간 : 0.6초
 
